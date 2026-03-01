@@ -1,5 +1,9 @@
 # ISYS2001-ISYS5002
 
+<!-- BADGES:START -->
+[![github](https://img.shields.io/badge/-github-blue?style=flat-square)](https://github.com/topics/github) [![google-colab](https://img.shields.io/badge/-google--colab-blue?style=flat-square)](https://github.com/topics/google-colab) [![introduction-to-programming](https://img.shields.io/badge/-introduction--to--programming-blue?style=flat-square)](https://github.com/topics/introduction-to-programming) [![jupyter-notebook](https://img.shields.io/badge/-jupyter--notebook-blue?style=flat-square)](https://github.com/topics/jupyter-notebook) [![programming-education](https://img.shields.io/badge/-programming--education-blue?style=flat-square)](https://github.com/topics/programming-education) [![python](https://img.shields.io/badge/-python-3776ab?style=flat-square)](https://github.com/topics/python) [![business-programming](https://img.shields.io/badge/-business--programming-blue?style=flat-square)](https://github.com/topics/business-programming) [![curtin](https://img.shields.io/badge/-curtin-f57c00?style=flat-square)](https://github.com/topics/curtin) [![course-materials](https://img.shields.io/badge/-course--materials-blue?style=flat-square)](https://github.com/topics/course-materials) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech)
+<!-- BADGES:END -->
+
 This repository contains course materials for:
 - ISYS2001: Introduction to Business Programming
 - ISYS5002: Introduction to Programming
